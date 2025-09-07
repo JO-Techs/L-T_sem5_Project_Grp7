@@ -33,8 +33,9 @@ The network consists of 2 PCs connected to a switch. Each PC is assigned an IP a
 - PC4: 192.168.1.4 / 255.255.255.0  
 
 **Topology Screenshot:**  
-
-![Pending... DON](https://img.shields.io/badge/-Pending...%20DON-red)
+![Topology](SCREENSHOTS/TOPOLOGY.jpg)
+**Command Prompt Screenshot:**
+**Simulation Screenshot:**
 
 ## Working and Demonstration
 1. Configure IP addresses on each PC.  
