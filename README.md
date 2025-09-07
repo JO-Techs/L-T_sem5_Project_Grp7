@@ -20,7 +20,7 @@ The task is to design a LAN with multiple PCs connected through a switch and dem
 - Screen recorder (Snipping Tool + WO Mic)  
 
 ### Virtual Hardware (in Packet Tracer)
-- 2 or 3 PCs (PC-PT)  
+- 4 PCs (PC-PT)  
 - 1 Cisco 2960 Switch (8-port)  
 - Copper Straight-Through LAN Cables  
 
@@ -29,7 +29,8 @@ The network consists of 2 PCs connected to a switch. Each PC is assigned an IP a
 
 - PC1: 192.168.1.1 / 255.255.255.0  
 - PC2: 192.168.1.2 / 255.255.255.0  
-- (Optional) PC3: 192.168.1.3 / 255.255.255.0  
+- PC3: 192.168.1.3 / 255.255.255.0
+- PC4: 192.168.1.4 / 255.255.255.0  
 
 **Topology Screenshot:**  
 
