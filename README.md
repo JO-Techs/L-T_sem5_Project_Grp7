@@ -35,7 +35,9 @@ The network consists of 2 PCs connected to a switch. Each PC is assigned an IP a
 **Topology Screenshot:**  
 ![Topology](SCREENSHOTS/TOPOLOGY.jpg)
 **Command Prompt Screenshot:**
+![CISCO Command Prompt](SCREENSHOTS/Command prompt.jpg)
 **Simulation Screenshot:**
+![Packet Transmission](SCREENSHOTS/Packet transmission.jpg)
 
 ## Working and Demonstration
 1. Configure IP addresses on each PC.  
