@@ -32,7 +32,8 @@ The network consists of 2 PCs connected to a switch. Each PC is assigned an IP a
 - (Optional) PC3: 192.168.1.3 / 255.255.255.0  
 
 **Topology Screenshot:**  
-pending...
+
+![Pending... DON](https://img.shields.io/badge/-Pending...%20DON-red)
 
 ## Working and Demonstration
 1. Configure IP addresses on each PC.  
