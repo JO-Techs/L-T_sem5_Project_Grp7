@@ -17,7 +17,7 @@ The task is to design a LAN with multiple PCs connected through a switch and dem
 ### Software
 - Cisco Packet Tracer (for simulation)  
 - GitHub (for version control and documentation)  
-- Screen recorder (OBS Studio or Windows Game Bar)  
+- Screen recorder (Snipping Tool + WO Mic)  
 
 ### Virtual Hardware (in Packet Tracer)
 - 2 or 3 PCs (PC-PT)  
