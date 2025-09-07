@@ -32,12 +32,21 @@ The network consists of 2 PCs connected to a switch. Each PC is assigned an IP a
 - PC3: 192.168.1.3 / 255.255.255.0
 - PC4: 192.168.1.4 / 255.255.255.0  
 
-**Topology Screenshot:**  
+
+## Topology Screenshot:
+
 ![Topology](SCREENSHOTS/TOPOLOGY.jpg)
-**Command Prompt Screenshot:**
-![CISCO Command Prompt](SCREENSHOTS/Command prompt.jpg)
-**Simulation Screenshot:**
-![Packet Transmission](SCREENSHOTS/Packet transmission.jpg)
+
+
+## Command Prompt Screenshot:
+
+![CISCO Command Prompt](SCREENSHOTS/CommandPrompt.jpg)
+
+
+## Simulation Screenshot:
+
+![Packet Transmission](SCREENSHOTS/PacketTransmission.jpg)
+
 
 ## Working and Demonstration
 1. Configure IP addresses on each PC.  
